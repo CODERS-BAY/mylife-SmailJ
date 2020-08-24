@@ -1,4 +1,6 @@
 ## Resume
+<img align="right" height="200" src="img/me.png">
+
 __Name:__ Smail JUSIC </br>
 __Age:__ 22 (05/09/1997)</br>
 __Address:__ Eisenhandstrasse 30a</br>
@@ -7,6 +9,7 @@ __Phone:__ 00436509006096</br>
 __E-Mail:__ smail.jusic16@gmail.com
 </br>
 </br>
+
 ## *WORK EXPERIENCE*
 Year | Company | Job
 -|-|-
@@ -33,7 +36,7 @@ Year | School Level | School
   * Adobe programs (PS, AE, PR)
   * Very good PC knowledge (software & hardware)
   * Very good Office skills (Excel, Word, Powerpoint)
-  * very good Windows and Linux knowledge
+  * Very good Windows and Linux knowledge
 
 * __Additional training:__ 
   * Basic first aid course
