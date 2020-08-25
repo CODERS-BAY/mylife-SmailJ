@@ -1,7 +1,7 @@
 ## Resume
-<img align="right" height="200" src="img/me.png">
+<img align="right" height="250" src="img/me.png">
 
-__Name:__ Smail JUSIC </br>
+__Name:__ Smail JUSIC</br>
 __Age:__ 22 (05/09/1997)</br>
 __Address:__ Eisenhandstrasse 30a</br>
 __City / Country:__ Linz - Austria</br>

@@ -1,11 +1,11 @@
 ## Resume
 <img align="right" height="250" src="img/me.png">
 
-__Name:__ Smail JUSIC
-__Age:__ 22 (05/09/1997)
-__Address:__ Eisenhandstrasse 30a
-__City / Country:__ Linz - Austria
-__Phone:__ 00436509006096
+__Name:__ Smail JUSIC</br>
+__Age:__ 22 (05/09/1997)</br>
+__Address:__ Eisenhandstrasse 30a</br>
+__City / Country:__ Linz - Austria</br>
+__Phone:__ 00436509006096</br>
 __E-Mail:__ smail.jusic16@gmail.com
 </br>
 </br>
