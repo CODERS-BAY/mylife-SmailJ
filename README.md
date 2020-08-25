@@ -1,5 +1,5 @@
 ## Resume
-<img align="right" height="250" src="img/me.PNG">
+<img align="right" height="200" src="img/me.PNG">
 
 __Name:__ Smail JUSIC</br>
 __Age:__ 22 (05/09/1997)</br>
