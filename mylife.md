@@ -46,4 +46,3 @@ Year | School Level | School
   * Working on and with the PC 
   * Design and video technology with Adobe AE, PR and PS
   * Selling products and advising customers.
-
